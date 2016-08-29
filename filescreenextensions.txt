@@ -8,6 +8,8 @@
 *.crinf
 *.crjoker
 *.cry
+*.crypt
+*.crypto
 *.crypto*
 *.cryptotorlocker*
 *.ctb2
@@ -16,7 +18,9 @@
 *.ecc
 *.enc
 *.enciphered
+*.encoderpass
 *.encrypted*
+*.encryptedRSA
 *.exx
 *.ezz
 *.frtrss
@@ -25,7 +29,11 @@
 *.hydracrypt*
 *.kb15
 *.kraken
+*.key
+*.keybtc@inbox_com
 *.lechiffre
+*.locked
+*.locky
 *.locky
 *.lol!
 *.magic
@@ -33,6 +41,8 @@
 *.nochance
 *.omg!
 *.r16m*
+*.pzdc
+*.r16m01d05
 *.r5a
 *.rdm
 *.rrk
@@ -42,7 +52,9 @@
 *.vault
 *.vvv
 *.xrnt
+*.xrtn
 *.xtbl
 *.xxx
 *.xyz
 *.zzz
+_crypt
