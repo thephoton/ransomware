@@ -28,9 +28,9 @@
 *.ha3
 *.hydracrypt*
 *.kb15
-*.kraken
 *.key
 *.keybtc@inbox_com
+*.kraken
 *.lechiffre
 *.locked
 *.locky
@@ -40,8 +40,8 @@
 *.micro
 *.nochance
 *.omg!
-*.r16m*
 *.pzdc
+*.r16m*
 *.r16m01d05
 *.r5a
 *.rdm
